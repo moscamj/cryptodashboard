@@ -1,0 +1,9 @@
+nav.navbar {
+  border-top: 4px solid #c8e1ff;
+  margin-bottom: 1.5em;
+  /* box-shadow: 0 2px 3px rgba(10, 10, 10, 0.1), 0 0 0 1px rgba(10, 10, 10, 0.1); */
+}
+.navbar-item.brand-text {
+  font-size: 1.5em;
+  font-weight: 700;
+}

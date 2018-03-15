@@ -1,0 +1,57 @@
+figure.image {
+  margin-left: auto;
+  margin-right: auto;
+}
+.card {
+  border-radius: 3px;
+  box-shadow: none;
+}
+.card-header {
+  padding-bottom: 5px;
+  box-shadow: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-header p {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  max-width: 85%;
+}
+table.table {
+  width: 100%;
+  margin-bottom: 0;
+  font-weight: 500;
+}
+table td {
+  padding: 0.5em 0 !important;
+}
+table td:first-child {
+  color: #2a2825;
+  padding-left: 0.5em !important;
+}
+table td:last-child {
+  padding-right: 0.25em !important;
+}
+table td span:first-child {
+  color: #424242;
+  padding-right: 0.4em;
+}
+div.card-content {
+  padding: 0.25em;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.coin-tile {
+  height: 185px;
+  padding-top: 25px;
+}
+.coin-wrapper {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
